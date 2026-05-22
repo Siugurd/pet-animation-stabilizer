@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pet Animation Stabilizer"
+  short_description: "Stabilize hatch-pet animation rows before packaging."
+  default_prompt: "Use this skill to review or improve a Codex pet spritesheet so frames keep stable scale, baseline, subject anchor, and motion rhythm."
