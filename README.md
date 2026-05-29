@@ -4,6 +4,9 @@
 
 It preserves the original hatch result, creates a separate candidate version, stabilizes each animation row's scale, subject position, foot baseline, and jumping takeoff/landing points, then outputs the optimized result for easy before-and-after comparison.
 
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/9e44ee82-8c3f-4d81-9acd-2fc9ea890152" />
+
+
 ## What It Does
 
 - Re-enters from a completed hatch-pet run, preferably from `decoded/*.png`.
