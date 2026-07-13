@@ -1,4 +1,4 @@
-# Pet Animation Stabilizer
+# Hatch-Pet Animation Stabilizer
 
 `pet-animation-stabilizer` is a Codex skill for improving completed hatch-pet animations.
 
